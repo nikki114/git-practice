@@ -1,3 +1,4 @@
 App initialized
 updated app header
 Added footer section
+ Footer color changed to green
