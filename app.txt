@@ -1,4 +1,8 @@
 App initialized
 updated app header
 Added footer section
+<<<<<<< HEAD
  Footer color changed to green
+=======
+Footer colour changed to blue
+>>>>>>> conflict/demo
